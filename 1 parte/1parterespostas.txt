@@ -1,7 +1,0 @@
-1.Os componentes de middleware, como o JDBC, são cruciais porque facilitam a conexão entre aplicativos e bancos de dados, tornando a interação mais eficiente e segura.
-
-2.A diferença é que o PreparedStatement é pré-compilado, o que melhora o desempenho e evita injeções de SQL, enquanto o Statement é menos seguro e mais lento.
-
-3.O padrão DAO separa a lógica de acesso a dados da lógica de negócios, tornando o software mais modular e fácil de manter.
-
-4.A herança no modelo relacional é geralmente refletida usando chaves estrangeiras e tabelas relacionadas para representar relacionamentos entre entidades.
