@@ -1,0 +1,5 @@
+1.A persistência em arquivo envolve armazenar dados em arquivos no sistema de arquivos, enquanto a persistência em banco de dados usa um sistema de gerenciamento de banco de dados para armazenar dados de forma estruturada e mais eficiente.
+
+2.O uso de operadores lambda simplificou a impressão de valores nas entidades do Java, permitindo que você defina uma função inline para processar e imprimir os valores de forma mais concisa.
+
+3.Métodos acionados diretamente pelo método main, sem um objeto, precisam ser marcados como static porque o método main é estático e só pode chamar outros métodos estáticos. Isso permite que o método main seja invocado sem a necessidade de criar uma instância da classe.
